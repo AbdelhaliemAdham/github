@@ -5,8 +5,10 @@ void main() {
 class MyApp {
   String? name;
   String? id;
+  String? email;
   MyApp({
     this.name,
     this.id,
+    this.email,
   });
 }
